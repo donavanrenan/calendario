@@ -26,7 +26,7 @@ utilizados para marcar data = aniversario, data especial, compromisso, feriado..
 ### tecnologias utilizadas 
 visual estudio code
 git hub
-Bootstrap
+
 
 ## fontes consultadas
 https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
