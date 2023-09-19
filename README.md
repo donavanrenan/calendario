@@ -18,7 +18,7 @@
 o propósito deste projeto, o objetivo, ajudar o usuario com datas.
 
 ## Introdução
-
+o calendario é uma ferramenta muito empostante para se organisar, e não perder datas empostantes por acidente.
 
 ## Funcionalidades
 utilizados para marcar data = aniversario, data especial, compromisso, feriado...
